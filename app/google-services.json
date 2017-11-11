@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472914116128",
+    "firebase_url": "https://kopi-ku.firebaseio.com",
+    "project_id": "kopi-ku",
+    "storage_bucket": "kopi-ku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472914116128:android:6b639dfdbb54e38c",
+        "android_client_info": {
+          "package_name": "com.example.aldi.kopi_ku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472914116128-5en26ihf65naggv1pkova7lkgbl0aemr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aldi.kopi_ku",
+            "certificate_hash": "aeebd11023c3b364adef79f62590a6db3daba521"
+          }
+        },
+        {
+          "client_id": "472914116128-q5cgslsp7l17ke91r5ngvcaosf1ccmlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DgNpjqJ4FXsSpGonIJbeYCjYMzQkrYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472914116128-q5cgslsp7l17ke91r5ngvcaosf1ccmlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
